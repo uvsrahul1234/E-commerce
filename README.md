@@ -1,33 +1,44 @@
-# Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript
+# Anon - An eCommerce Website
 
-[<img alt="Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/Build%20and%20Deploy%20Ecommerce%20Website%20With%20HTML%20CSS%20JavaScript%20Full%20Responsive%20Ecommerce%20Course%20FREE.PNG?raw=true" />](https://youtu.be/P8YuWEkTeuE/)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
 
-## About this course
-LEARN HOW TO BUILD AND DEPLOY FULL RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS & JAVASCRIPT. This is a free HTML CSS Course. And in this course we will learn how to build and deploy a full multipage ecommerce website completely from scratch step by step. Will Create from responsive navbar using html CSS JavaScript to responsive footer in one video.
+Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
-## Why This Course?
-- Responsive Ecommerce Website Tutorial Using HTML CSS & JavaScript.
-- Completely For Beginners.
-- Multipage Ecommerce Website Project.
-- Best Beginner Friendly Free Course On YouTube.
-- Learn How to build amazing professional and responsive websites.
-- Learn the fundamentals of web design.
-- Modern CSS, including flexbox and CSS Grid for layout.
-- Modern CSS techniques to create stunning designs and effects.
-- How to use common components and layout patterns for professional website design and development.
-- Advanced responsive design using media queries.
-- And Many More.
+## Demo
 
-## Sections
-- Part1: Responsive Home Page Design.
-- Part2: Shop Page & Single Product Page.
-- Part3: Blog Page.
-- Part4: About Page.
-- Part5: Contact Us.
-- Part6: Ecommerce Shopping Cart.
+![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-Here you will find all the images I'm using to create this responsive ecommerce website. In future image folder can update.
+## Prerequisites
 
-Get the full source code from [here1](https://www.buymeacoffee.com/tech2etc/e/50932).
+Before you begin, ensure you have met the following requirements:
 
-Get the full source code from [here2](https://ko-fi.com/s/06e4db9e09).
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+## Installing Anon
+
+To install **Anon**, follow these steps:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+```
+
+## Contact
+
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+## License
+
+This project is **free to use** and does not contains any license.
